@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="StudentDB@noelvaes.eu" uuid="e7cfaf8c-1fff-4a99-ae16-93e13e12b767">
+      <database-info product="MariaDB" version="5.5.64-MariaDB" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="2.4.1" dbms="MARIADB" exact-version="5.5.64" exact-driver-version="2.4">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>student</user-name>
+      <introspection-schemas>*:@,living</introspection-schemas>
+    </data-source>
+  </component>
+</project>
